@@ -1,0 +1,72 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "09 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "00 Home/Daily CheckList",
+      "template": "09 Templates/Daily-CheckList/✅ Daily CheckList.md"
+    },
+    {
+      "folder": "01 Projects",
+      "template": "09 Templates/Project/Project.md"
+    },
+    {
+      "folder": "02 Tasks",
+      "template": "09 Templates/Task/Task.md"
+    },
+    {
+      "folder": "03 Meetings",
+      "template": "09 Templates/Meeting/Meeting.md"
+    },
+    {
+      "folder": "04 SOP",
+      "template": "09 Templates/SOP/SOP.md"
+    },
+    {
+      "folder": "05 Knowledge Base",
+      "template": "09 Templates/Knowledge/Knowledge.md"
+    },
+    {
+      "folder": "06 KPI",
+      "template": "09 Templates/KPI/KPI.md"
+    },
+    {
+      "folder": "07 Reports",
+      "template": "09 Templates/Report/Daily Report.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "09 Templates/System/Auto-Create Daily CheckList.md",
+    ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
+}

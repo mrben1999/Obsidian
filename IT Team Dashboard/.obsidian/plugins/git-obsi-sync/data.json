@@ -1,0 +1,14 @@
+{
+  "githubToken": "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",
+  "githubUsername": "mrben1999",
+  "repoName": "obsidian-it-team-dashboard",
+  "autoSync": true,
+  "syncIntervalMs": 3000,
+  "excludePatterns": [
+    ".obsidian/workspace",
+    ".obsidian/workspace.json",
+    ".obsidian/plugins/*/data.json"
+  ],
+  "lastSyncTime": 1784512452804,
+  "commitMessageTemplate": "sync: {{datetime}}"
+}

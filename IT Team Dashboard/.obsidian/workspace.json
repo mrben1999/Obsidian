@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Home/Daily CheckList/2026-08-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff8e856ab844e032",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc0a1f2587cbd706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26937569e46d3fe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ade41313035478e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1aab3044b0cca8d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "b898f2a22b2db26d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cedadc8a0d704370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9e22967fc8a0482",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "0ef01bb57fd4eae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "54a663ae7a0b1368",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16b7c5b0893d4761",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7f01cc6071af39ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Tasks/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "a692029037b17192",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b73470da139539fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "05 Knowledge Base/GLPI Deployment Manual/05. Inventory/Switch.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Switch"
+            }
+          },
+          {
+            "id": "cb5c5925dcf33830",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "00 Home/Dashboard/Dashboard - Quản lý Team.md",
+    "00 Home/Daily CheckList/2026-08-21.md",
+    "05 Knowledge Base/00-Knowledge-Index.md",
+    "05 Knowledge Base/02-Network/README.md",
+    "05 Knowledge Base/01-Hardware/IT-DANG.md",
+    "05 Knowledge Base/01-Hardware/2026-08-20-Mo-May.md",
+    "05 Knowledge Base/01-Hardware/IT-leminh.md",
+    "Assets.md",
+    "07 Reports/2026/2026-08/R009.3.1-Asset-Passport-IT-DANG.md",
+    "07 Reports/2026/2026-08/R009.3.2-Asset-Passport-IT-NHUNGOC.md",
+    "07 Reports/2026/2026-08/R009.3.2-Asset-Passport-IT-DANG.md",
+    "00 Home/Home.md",
+    "01 Projects/AI-IT-Assistant-v1.2/AI-IT-Assistant-v1.1/03 ADR/ADR-000-AI-Operating-System.md",
+    "Alerts.md",
+    "Dashboard.md",
+    "07 Reports/2026/2026-08/R009.3.1-Asset-Passport-JPH702PWL8.md",
+    "07 Reports/2026/2026-08/R009.3.1-Asset-Passport-IT-NHUNGOC.md",
+    "02 Tasks/2.Doing/Dời máy tính và lắp đặt lại mạng cho phòng CR.md",
+    "02 Tasks/2.Doing/Chưa đặt tên.md",
+    "02 Tasks/1.Plan/Tách CCTV khu B.md",
+    "02 Tasks/1.Plan/Chưa đặt tên.md",
+    "07 Reports/2026/2026-08/R009.3-Asset-Passport-Full-JPH702PWL8.md",
+    "07 Reports/2026/2026-08/R009.3-Asset-Passport-Full-IT-NHUNGOC.md",
+    "07 Reports/2026/2026-08/R009.3-Asset-Passport-Full-IT-DANG.md",
+    "07 Reports/2026/2026-08/R009.2.2-Asset-Passport-Full-JPH702PWL8.md",
+    "07 Reports/2026/2026-08/R009.2.2-Asset-Passport-Full-IT-NHUNGOC.md",
+    "07 Reports/2026/2026-08",
+    "07 Reports/2026",
+    "05 Knowledge Base/08-FAQ",
+    "05 Knowledge Base/07-Zabbix",
+    "05 Knowledge Base/06-GLPI",
+    "05 Knowledge Base/05-Microsoft365",
+    "05 Knowledge Base/04-Windows",
+    "05 Knowledge Base/03-Printer",
+    "05 Knowledge Base/02-Network",
+    "05 Knowledge Base/01-Hardware",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Chưa đặt tên.canvas"
+  ]
+}
